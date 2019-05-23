@@ -15,6 +15,12 @@ And then execute:
 
 ## How to use
 
+Add to your JavaScript manifest file (application.js):
+
+```js
+//= require jquery.rwdImageMaps
+```
+
 Visit [official doc](https://github.com/stowball/jQuery-rwdImageMaps#jquery-rwd-image-maps)
 
 [version-badge]: https://badge.fury.io/rb/jQuery-rwdImageMaps-rails.svg
